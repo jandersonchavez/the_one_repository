@@ -1,0 +1,20 @@
+Message stats for scenario amazon_scenario
+sim_time: 43000.1000
+created: 1456
+started: 95345
+relayed: 43547
+aborted: 51794
+dropped: 44119
+removed: 0
+delivered: 378
+delivery_prob: 0.2596
+response_prob: 0.0000
+overhead_ratio: 114.2037
+latency_avg: 1167.6841
+latency_med: 1253.5000
+hopcount_avg: 3.5741
+hopcount_med: 3
+buffertime_avg: 520.2085
+buffertime_med: 410.0000
+rtt_avg: NaN
+rtt_med: NaN
